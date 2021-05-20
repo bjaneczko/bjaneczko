@@ -14,7 +14,7 @@ I'm Bartek, an aspiring Front-end Developer from Poland. In my projects, I focus
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/bjaneczko)](https://github.com/bjaneczko)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/bjaneczko)](https://github.com/bjaneczko)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/bjaneczko)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/bjaneczko)
+
 
 ## 📕 Learning
 
@@ -22,3 +22,4 @@ I'm Bartek, an aspiring Front-end Developer from Poland. In my projects, I focus
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/bjaneczko)](https://github.com/bjaneczko)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/bjaneczko)](https://github.com/bjaneczko)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/bjaneczko)
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/bjaneczko)
