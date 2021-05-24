@@ -5,9 +5,6 @@ I'm Bartek, an aspiring Front-end Developer from Poland. In my projects, I focus
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartlomiej-janeczko/)](https://www.linkedin.com/in/bartlomiej-janeczko/)
 
-## ⭐ Portfolio 
-
-❗ In progress ❗
 
 ## 🔧 Technologies
 
